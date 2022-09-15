@@ -8,15 +8,20 @@ namespace tabuleiro
 {
     internal class Tabuleiro
     {
-        public int linha { get; set; }
-        public int coluna { get; set; }
+        public int linhas { get; set; }
+        public int colunas { get; set; }
         private Peca[,] pecas;
 
-        public Tabuleiro(int linha, int coluna)
+        public Tabuleiro(int linhas, int colunas)
         {
-            this.linha = linha;
-            this.coluna = coluna;
-            pecas = new Peca[linha, coluna];
+            this.linhas = linhas;
+            this.colunas = colunas;
+            pecas = new Peca[linhas, colunas];
+        }
+
+        public Peca peca(int linha, int coluna)
+        {
+            return pecas[linha, coluna];
         }
     }
 }

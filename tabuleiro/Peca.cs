@@ -15,5 +15,6 @@
             this.qteMovimentos = 0;
         }
 
+
     }
 }
