@@ -1,0 +1,15 @@
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\bin\Debug\net6.0\xadrez-console.exe
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\bin\Debug\net6.0\xadrez-console.deps.json
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\bin\Debug\net6.0\xadrez-console.runtimeconfig.json
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\bin\Debug\net6.0\xadrez-console.dll
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\bin\Debug\net6.0\xadrez-console.pdb
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\obj\Debug\net6.0\xadrez-console.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\obj\Debug\net6.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\obj\Debug\net6.0\xadrez-console.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\obj\Debug\net6.0\xadrez-console.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\obj\Debug\net6.0\xadrez-console.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\obj\Debug\net6.0\xadrez-console.dll
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\obj\Debug\net6.0\refint\xadrez-console.dll
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\obj\Debug\net6.0\xadrez-console.pdb
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\obj\Debug\net6.0\xadrez-console.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Curso C# - Nelio Alves\xadrez-console\obj\Debug\net6.0\ref\xadrez-console.dll

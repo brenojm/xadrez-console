@@ -1,11 +1,5 @@
 ﻿global using global::System;
-global using global::System.Collections.Generic;
-global using global::System.IO;
-global using global::System.Linq;
-global using global::System.Net.Http;
-global using global::System.Threading;
-global using global::System.Threading.Tasks;
-
+using xadrez_console.tabuleiro;
 
 namespace xadrez_console
 {
@@ -13,7 +7,11 @@ namespace xadrez_console
     {
         static void Main(string[] args)
         {
+            Posicao P;
 
+            P = new Posicao(3, 4);
+
+            Console.WriteLine(P);
         }
     }
 }
